@@ -4,99 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "5c1f8ce404648f40",
-        "type": "split",
+        "id": "dfa5da9f0b6ab6c7",
+        "type": "tabs",
         "children": [
           {
-            "id": "dfa5da9f0b6ab6c7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9ef73ce3f2256140",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "a13dac01cb2a1a22",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "wiki/Bear-Robotics.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Bear-Robotics"
-                }
-              }
-            ]
+            "id": "9ef73ce3f2256140",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           },
           {
-            "id": "9ce8abc6f98cc24b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3861657fc8a2feed",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/seungjohan/Obsidian/researcher",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "executable": "/bin/zsh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: zsh"
+            "id": "a13dac01cb2a1a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Bear-Robotics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "Bear-Robotics"
+            }
+          },
+          {
+            "id": "31702df5dfe60498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Visa-Sponsorship-PM-Europe-2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Visa-Sponsorship-PM-Europe-2026"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -319,6 +289,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "wiki/Visa-Sponsorship-PM-Europe-2026.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +317,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Visa-Sponsorship-PM-Europe-2026"
             }
           },
           {
@@ -483,7 +454,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -516,19 +487,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1719b637f372dfd8",
+  "active": "31702df5dfe60498",
   "lastOpenFiles": [
+    "wiki/USA-AI-Map.md",
+    "wiki/Edge-AI-Infrastructure-2026.md",
+    "wiki/Healthcare-AI-Trends-2026.md",
+    "wiki/Visa-Sponsorship-PM-Europe-2026.md",
+    "wiki/South-Korea-AI-Map.md",
     "README.md.save",
     "wiki/Bear-Robotics.md",
     "wiki/Mobilint.md",
     "wiki/Ireland-AI-Map.md",
-    "wiki/South-Korea-AI-Map.md",
-    "wiki/USA-AI-Map.md",
     "wiki/Application-Strategy-2026.md",
     "wiki/Job-Search-Status-2026.md",
     "GEMINI.md",
     "wiki/FuriosaAI.md",
-    "wiki/Healthcare-AI-Trends-2026.md",
     "wiki/Product-Management-0-to-1.md",
     "wiki/AI-Industry-Map-2026.md",
     "wiki/index.md",
@@ -543,7 +516,6 @@
     "researcher/wiki/VoyagerX.md",
     "researcher/wiki/VUNO.md",
     "researcher/wiki/Upstage.md",
-    "researcher/wiki/Twelve-Labs.md",
     "researcher/wiki",
     "researcher/raw/AI-Startups-Korea-Top30.csv",
     "researcher/raw",
@@ -553,7 +525,6 @@
     "wiki",
     "obsidian-research",
     "Users/seungjohan/Obsidian/researcher",
-    "Users/seungjohan/Obsidian",
     "resources/attachments/Pasted image 20260331182241.png",
     "startup/useful product.canvas",
     "resources/attachments/R1280x0 30.png",
